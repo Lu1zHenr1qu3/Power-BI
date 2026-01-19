@@ -1,5 +1,7 @@
 # 📊 Power BI Projects - Portfolio
 
+Portfólio de projetos em Power BI com dashboards interativos, ETL no Power Query, modelagem dimensional, DAX avançado e visualização orientada a insights. Inclui análises de vendas, marketing, finanças e operações, integrando múltiplas fontes de dados e aplicando boas práticas de BI.
+
 Este repositório contém uma coleção de projetos desenvolvidos durante cursos de Power BI da Alura, demonstrando diferentes técnicas e aplicações de Business Intelligence.
 
 ## 📚 Projetos
