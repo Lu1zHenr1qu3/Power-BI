@@ -1,0 +1,170 @@
+
+O que você quer aprender?
+Pesquisar
+Ícone da LuriPesquisar com IA
+alura
+Foto de Luiz Henrique Santos do Nascimento
+Luiz
+
+Novidades
+Ícone de Gemini no Google Workspace: comunicação, criação e organização com IA
+Curso
+Gemini no Google Workspace: comunicação, criação e organização com IA
+2 horas atrás
+Ícone de Figma: Além do UI com Figma Buzz e Figma Slides
+Curso
+Figma: Além do UI com Figma Buzz e Figma Slides
+6 horas atrás
+Ícone de Mensageria com Python e Kafka: integração assíncrona em sistemas distribuídos
+Curso
+Mensageria com Python e Kafka: integração assíncrona em sistemas distribuídos
+6 horas atrás
+Ícone de A fábrica de dados escondida na UTI
+Vídeo
+A fábrica de dados escondida na UTI
+19 horas atrás
+Ícone de n8n para Desenvolvedores: engenharia de fluxos e automação de infraestrutura
+Formação
+n8n para Desenvolvedores: engenharia de fluxos e automação de infraestrutura
+23 horas atrás
+Ver todas
+Dashboard
+Explorar Catálogo
+Data Science
+Cursos de Business Intelligence
+
+Curso de
+Power BI: criando visuais customizados
+Progresso
+
+97%
+Carga Horária
+
+8h
+
+Avaliação
+
+9.3
+
+Atualizado em
+
+24/10/2024
+
+Alunos(as)
+
+2.142
+
+Transcrição
+
+100%
+
+ Acessar Curso
+Adicionar a um Plano de Estudos
+Outras ações
+Formação 
+com esse curso
+
+Dominando o Power BI
+
+Pré-requisitos
+Para aproveitar melhor esse curso, sugerimos que você tenha conhecimentos em:
+
+
+Dashboard com Power BI: visualizando dados
+
+Power BI: aplicando DAX ao negócio
+Exibir mais pré-requisitos 
+Instrutor(a)
+instructor Ana Duarte
+Ana Duarte
+Linkedin
+
+Github
+
+Sou bacharela em Estatística e atualmente curso Ciência da Computação. Já atuei como cientista de dados no ramo educacional e financeiro e hoje sou instrutora na Escola de Dados da Alura e voluntária na equipe de projetos do grupo Data Girls. Sou apaixonada por transformar dados em informação inteligente usando a ciência de dados em diversos tipos de aplicação. Fora isso, sempre estou acompanhando alguma série e procurando novas rotas para andar de bike.
+
+Apoio ao aprendizado
+Ícone da Luri
+Luri, a IA da Alura
+Converse com a Luri para esclarecer suas dúvidas e relembrar conteúdos das aulas. Conheça a Luri
+
+Mais sobre o curso
+Fórum do curso
+Estudando este mês:
+Isaque Araujo Goncalves Lucas Pequeno Sterzeck Roberto Barbosa Tanaka Junior Lucas Gabriel Alves Cardoso Guilherme Quaglio Corrêa
+e mais 58 alunos(as)
+Faça esse curso de Business Intelligence e:
+Diferencie visuais principais de visuais customizados
+Instale os visuais Deneb e HTML content e entenda suas particularidades
+Crie visuais declarativos com o Vega, Vega-LIte e JSON no Deneb
+Construa gráficos personalizados utilizando as linguagens HTML e CSS
+Elabore visuais animados e interativos no dashboard
+Utilize medidas DAX nos visuais personalizados construidos
+Aulas
+Contexto Ver primeiro vídeo
+8 / 9
+19min
+Apresentação
+Para saber mais: conta gratuita indisponível
+Preparando o ambiente: ponto de partida do projeto
+Zoop e suas necessidades
+Para saber mais: levantamento de requisitos em projetos de BI
+Visuais principais x Visuais customizados
+Diferenciando os tipos de visuais
+Faça como eu fiz: instalando DENEB e HTML Content
+O que aprendemos?
+Criando visuais declarativos
+10 / 10
+28min
+Projeto da aula anterior
+Conhecendo o Deneb
+Para saber mais: A importância de Vega, Vega-Lite e JSON nos visuais declarativos
+Adicionando personalizações no gráfico de barras
+Para saber mais: aumentando seus repertório com recursos e exemplos
+Preparando o ambiente: utilizando templates no Deneb
+Linhas suavizadas com gradiente
+Possibilidades com Deneb
+Faça como eu fiz: entendendo cada parte do ambiente
+O que aprendemos?
+Cartões em HTML Content
+12 / 12
+44min
+Projeto da aula anterior
+Preparando o ambiente
+Cartão com visibilidade de NPS
+Alterando a cor com DAX e CSS
+Para saber mais: visuais prontos
+Cartão com o percentual de variação
+Mão na massa: condicional no ícone
+Cartão com categoria mais vendida
+Possibilidades com HTML Content
+Cartão com progresso de meta
+Faça como eu fiz: utilizando HTML e CSS no PBI
+O que aprendemos?
+Gráficos em HTML Content
+12 / 12
+35min
+Projeto da aula anterior
+Preparando o ambiente
+Pódio dos vendedores
+Análise do programa de cashback com infográfico #1
+Para saber mais: limitações do HTML Content
+Análise do programa de cashback com infográfico #2
+Possibilidade com HTML Content
+Faça como eu fiz: visuais adaptados
+Projeto final
+O que aprendemos?
+Conclusão
+Créditos
+Logo da alura
+Sobre a Alura
+Central de Ajuda
+Blog da Alura
+Sugira um curso ou carreira
+Sugira uma funcionalidade
+Discord Alura
+Graduação
+Pós-Graduação
+MBA
+Acompanhe-nos
+Apps
